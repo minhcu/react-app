@@ -6,6 +6,16 @@ export default function LoginPage() {
     }
 
     return <>
-        <Button >Click me</Button>
+        <h3>
+            1. Làm login page
+        </h3>
+
+        <h3>
+            2. Tại sao phải dùng key khi sử dụng list rendering
+        </h3>
+
+        <p>
+            Trả lời:
+        </p>
     </>;
 }
